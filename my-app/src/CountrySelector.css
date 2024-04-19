@@ -1,0 +1,15 @@
+.country-selector {
+  overflow-x: auto;
+}
+
+.country-list {
+  display: flex;
+  padding: 10px;
+}
+
+.country-list > div {
+  margin-right: 10px;
+  padding: 5px;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
